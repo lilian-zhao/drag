@@ -1,7 +1,7 @@
 // JavaScript Document
 
 function drag(id){
-	var obj = document.getElementById(id);
+	/* var obj = document.getElementById(id);
 	var disX = 0;
 	var disY = 0;
 	obj.onmousedown = function(ev){
@@ -16,5 +16,5 @@ function drag(id){
 			document.onmouseup = null;
 		};
 	}
-	return false;
+	return false; */
 }
